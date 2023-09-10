@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/carserv/static/css/main.e0904bd5.css",
+    "main.js": "/carserv/static/js/main.c02e2685.js",
+    "static/js/787.4c187b44.chunk.js": "/carserv/static/js/787.4c187b44.chunk.js",
+    "static/media/Client-4.jpg": "/carserv/static/media/Client-4.f073b21c75e32d573d6c.jpg",
+    "static/media/Client-3.jpg": "/carserv/static/media/Client-3.7bec6c56344bb1ae634b.jpg",
+    "static/media/Team-4.jpg": "/carserv/static/media/Team-4.b847c2a77033838d9dcd.jpg",
+    "static/media/Car-Service-1.png": "/carserv/static/media/Car-Service-1.c453db4dde45e5572085.png",
+    "static/media/Team-2.jpg": "/carserv/static/media/Team-2.efcaafcf3bd184cc9ab7.jpg",
+    "static/media/Client-2.jpg": "/carserv/static/media/Client-2.89519bd8b6feabc49212.jpg",
+    "static/media/Client-1.jpg": "/carserv/static/media/Client-1.70c640e9f5ee8778d585.jpg",
+    "static/media/Car-Bg-1.png": "/carserv/static/media/Car-Bg-1.726a0aa10120ba957e5b.png",
+    "static/media/Car-Bg-2.png": "/carserv/static/media/Car-Bg-2.22bf5d984afe9d372353.png",
+    "static/media/Team-1.jpg": "/carserv/static/media/Team-1.eceffbe02fd23ef66804.jpg",
+    "static/media/Car-Service-2.png": "/carserv/static/media/Car-Service-2.d196b34a5472e648aa75.png",
+    "static/media/CAR-3.png": "/carserv/static/media/CAR-3.57e7e43542ca432911b3.png",
+    "static/media/Team-3.jpg": "/carserv/static/media/Team-3.d6560cae5f025e9ce783.jpg",
+    "static/media/Car-Service-3.png": "/carserv/static/media/Car-Service-3.c8ca269c67f0e44e4f9a.png",
+    "static/media/Car-Bg-3.png": "/carserv/static/media/Car-Bg-3.dd1af272934ab7044ba7.png",
+    "static/media/Car-Service-4.png": "/carserv/static/media/Car-Service-4.d4df64e9c9432626a051.png",
+    "static/media/Car-About.png": "/carserv/static/media/Car-About.8ac80a76055c1ce5305d.png",
+    "static/media/CAR-1.png": "/carserv/static/media/CAR-1.d2e7c15952591dfff109.png",
+    "static/media/carserv-logo.png": "/carserv/static/media/carserv-logo.4b0139982cab6a25f20f.png",
+    "index.html": "/carserv/index.html",
+    "main.e0904bd5.css.map": "/carserv/static/css/main.e0904bd5.css.map",
+    "main.c02e2685.js.map": "/carserv/static/js/main.c02e2685.js.map",
+    "787.4c187b44.chunk.js.map": "/carserv/static/js/787.4c187b44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0904bd5.css",
+    "static/js/main.c02e2685.js"
+  ]
+}
